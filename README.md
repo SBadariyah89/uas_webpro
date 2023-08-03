@@ -25,6 +25,6 @@ Aplikasi database mahasiswa ini dibuat dengan fungsi menyimpan, mengubah serta m
 1. Halaman Login -> untuk Login diperlukan memasukkan nama : admin dan password :123456
    Ketika berhasil login akan masuk ke halaman mahasiswa. Jika Klik tombol Logout akan kembali ke halaman Login.
 3. Halaman Dashboard -> menapilkan halaman yang berisi tabel data mahasiswa yang berisi NIM, Nama, JUrusan dan Aksi.
-   Pada Dashboar kita dapat melakukan pencarian dengan memasukkan kata kunci pada kolom search, menambahkan data pada tabel dengan mengklik tombol tambah (+Tambah Data) dan juga melakukan perubahan data (Edit) atau penghapusan data (Del) dengan menekan salah satu tombol pada kolom Aksi. 
+   Pada Dashboar kita dapat menambahkan data pada tabel dengan mengklik tombol tambah (+Tambah Data) dan juga melakukan perubahan data (Edit) atau penghapusan data (Del) dengan menekan salah satu tombol pada kolom Aksi. 
 4. CRUD User berisi kolom untuk mengisi data mahasiswa yang terdiri dari NIM, Nama dan Jurusan
 5. Halaman Input, Edit dan Delete ketika admin selesai memasukkan data dan menekan tombol simpan maka akan terlihat notifikasi "Berhasil menambahkan data" 
