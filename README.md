@@ -14,12 +14,12 @@ Fitur Aplikasi database mahasiswa ini tersiri dari :
 
 Deskripsi aplikasi
 Tekhnologi aplikasi ini dibuat dengan menggunakan sofware :
-1. XAMPP 
-2. Phpmyadmin
-3. Visual Studio Code
-4. Googke Chrome
-5. Lavarel
-6. Boostrap
+1. XAMPP -> Aplikasi XAMPP merupakan sebuah paket perangkat lunak (software) komputer yang berfungsi sebagai server lokal untuk mengampu berbagai jenis data website yang sedang dalam proses pengembangan.
+2. Visual Studio Code -> Aplikasi Visual Studio Code merupakan perangkat lunak penyunting kode-sumber buatan microsoft untuk Linux, macOS, dan Windows. Visual Studio Code menyediakan fitur seperti penyorotan sintaksis, penyelesaian kode, kutipan kode, merefaktor kode, dan Git.
+3. Google Chrome -> Aplikasi Google Chrome adalah browser web cepat yang tersedia tanpa biaya yang merupakan tools penting dalam membuat sebuah halaman website, dsb.
+4. Phpmyadmin -> Salah satu software gratis yang ditulis dalam bahasa PHP dan merupakan software yang paling populer digunakan untuk mengelola tabel dan data pada database melalui web
+5. Laravel -> Framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web
+6. Boostrap -> Framewrok HTML, CSS, Javascript yang berfungsi untuk mendesain website responsive dengan cepat mudah.
    
 Aplikasi database mahasiswa ini dibuat dengan fungsi menyimpan, mengubah serta menghapus database mahasiswa yang terdiri dari NIM, Nama dan Jurusan Mahasiswa.
 1. Halaman Login -> untuk Login diperlukan memasukkan nama : admin dan password :123456
